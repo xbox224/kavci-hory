@@ -59,6 +59,7 @@
 }
 
 @media screen and (max-width:800px) {
+  /* Smaller screen design */
   .show-menu-btn,.hide-menu-btn{
     display: block;
   }
@@ -96,3 +97,6 @@
   margin-top: 1000px;
   float: right;
 }
+
+/* Main content styles */
+.main-content{}
