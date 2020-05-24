@@ -92,10 +92,13 @@
 /* places box */
 .right-places-box{
   background: #dfe6e9;
-  border-radius: 40px;
+  border-radius: 60px;
   padding: 30px;
-  margin-top: 70px;
+  margin-top: 100px;
   float: right;
+}
+.right-places-box a{
+  margin-top: 5px;
 }
 
 /* Main content styles */
