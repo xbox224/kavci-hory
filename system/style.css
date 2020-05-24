@@ -102,4 +102,6 @@ ul a{
 }
 
 /* Main content styles */
-.main-content{}
+.main-content{
+  margin-top: 20px; 
+}
